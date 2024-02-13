@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(to right,lightpink,lightblue,lavender);
+   }
+   
+   .card{
+      width:400px;
+      height:50vh;
+      margin-top: 3%;
+      box-shadow: 4px 4px 4px black;
+      background-color: lavenderblush;
+  }
+  h4{
+      font-size: 25px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color:purple;
+  
+  }
+  input {
+      text-align: center;
+  }
+  form{
+      padding-top: 3%;
+  }
